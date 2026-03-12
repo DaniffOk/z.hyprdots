@@ -3,4 +3,4 @@ star :)
 also make sure to make all the .sh executable
 
 
-also dont run the sync.sh, it will copy ur exsisitng .configs to the z.hyprdots folder
+i think runnning sync.sh will copy the configs to ur configs, not sure tho
