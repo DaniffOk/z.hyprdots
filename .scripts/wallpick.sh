@@ -20,6 +20,6 @@ swww img "$FULL_PATH" \
     --transition-duration 2 \
     --transition-fps 60 &
 
-matugen image "$FULL_PATH" --source-color-index 0 -q
+matugen image "$FULL_PATH"
 
 notify-send -a "Wallpaper" "$(basename "$FULL_PATH")" "Theme updated" -u low -t 2000
